@@ -153,14 +153,6 @@ def numTarjeta():
     return numT
 
 
-def pagarImporte():
-    importe = input("Pagar Boleta \n" +
-                    "Importe \n" +
-                    "\nIngrese un importe: ")
-
-    return importe
-
-
 def pagoCodigo():
     codigob = input("Pagar Boleta \n" +
                     "Código de Barra \n" +
